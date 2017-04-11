@@ -7,17 +7,21 @@ Inspiration from https://github.com/yannart/docker-cerebro
 
 # Prerequsites
 [Docker](https://docs.docker.com/engine/installation/#platform-support-matrix)
+
 [Docker Compose](https://docs.docker.com/compose/install/)
 
 # Description
 Run command `docker-compose up --build` and you have environment Elasticsearch, Kibana and Cerebro.
 
 Elasticsearch http://localhost:9200
+
 Kibana http://localhost:5602
+
 Cerebro http://localhost:9001 - host http://elasticsearch:9200 with default username and password (elastic and changeme)
 
 # Data sets
 `products.jsonv - dummy products for Bulk API
+
 `users_data_set.json` - dummy users
 
 # Generate structure ffrom JSON into BUlk API format
