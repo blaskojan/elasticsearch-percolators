@@ -5,7 +5,7 @@ You can use Elasticsearch, Kibana for experimenting purposes. You can create ind
 
 Inspiration from https://github.com/yannart/docker-cerebro
 
-# Prerequsites
+# Prerequsities
 [Docker](https://docs.docker.com/engine/installation/#platform-support-matrix)
 
 [Docker Compose](https://docs.docker.com/compose/install/)
